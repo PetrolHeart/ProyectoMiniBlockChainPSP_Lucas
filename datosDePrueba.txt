@@ -1,0 +1,6 @@
+Brais entrega 5 fichas a Gabriel
+Gabriel entrega 2 fichas a Iker
+
+Iker entrega 1 ficha a Brais
+Brais entrega 3 fichas a Iker
+Gabriel entrega 4 fichas a Brais
