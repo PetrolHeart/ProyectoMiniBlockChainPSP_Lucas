@@ -1,4 +1,4 @@
-# Proyecto de PSP - Mini blockchain - Lucas Piacentin
+# Proyecto de PSP - Mini blockchain - Lucas Piacentini
 
 Simulación de una cadena de bloques con minado por prueba de trabajo repartido entre procesos Java independientes.
 
